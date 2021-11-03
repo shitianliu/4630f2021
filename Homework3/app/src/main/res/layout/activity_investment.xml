@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#dce775">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="mine"
+            android:textColor="#bf00ff"
+            android:textSize="37sp"
+            tools:layout_editor_absoluteX="130dp"
+            tools:layout_editor_absoluteY="28dp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="150dp"
+            android:layout_height="140dp"
+            app:srcCompat="@drawable/picture11"
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="100dp"
+            tools:layout_editor_absoluteY="70dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="my family"
+            android:textColor="#bf00ff"
+            android:textSize="37sp"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="150dp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="130dp"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/picture12"
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="130dp"
+            tools:layout_editor_absoluteY="250dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="someone else"
+            android:textColor="#bf00ff"
+            android:textSize="37sp"
+            tools:layout_editor_absoluteX="91dp"
+            tools:layout_editor_absoluteY="463dp" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="210dp"
+            android:layout_height="220dp"
+            app:srcCompat="@drawable/picture13"
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="100dp"
+            tools:layout_editor_absoluteY="500dp" />
+
+    </LinearLayout>

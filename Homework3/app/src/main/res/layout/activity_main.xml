@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#dce775">
+
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Weather around me"
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="99dp"
+            tools:layout_editor_absoluteY="30dp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="facts about..."
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="99dp"
+            tools:layout_editor_absoluteY="90dp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="investment portfolio"
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="99dp"
+            tools:layout_editor_absoluteY="210dp" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="my resume"
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="99dp"
+            tools:layout_editor_absoluteY="270dp" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="other facts about me"
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="99dp"
+            tools:layout_editor_absoluteY="150dp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="more"
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="99dp"
+            tools:layout_editor_absoluteY="330dp" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="assignment2"
+            android:layout_gravity="center"
+            tools:layout_editor_absoluteX="99dp"
+            tools:layout_editor_absoluteY="400dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:layout_weight="1"
+            android:src="@drawable/picture1"
+            android:scaleType="centerCrop"
+            android:layout_margin="2dp"
+            />
+    </LinearLayout>
