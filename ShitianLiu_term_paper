@@ -1,0 +1,80 @@
+Term paper
+	This is the term paper for our final project. In this paper, I will introduce about my final project by several part. 
+  I will talk about how I got the idea about writing the project like that in the first part, after that, I will talk about 
+  how my projects looks like for the output part. Then I will write about how I did this project, what difficulties I meet during that time.
+  There are also some similarity apps like mine which I will also talk about them in my paper by using several sentences. In the final part 
+  will also talk about how the program will be in the end of the semester. 
+  
+When I see the syllabus in the beginning of the semester, I find that we have a big project that worth 40% of our totally credits, after that, 
+I realize that this project will be very important to this class. However, at that time, I have no idea what we will do for the final project, 
+and I am not very good at android program, I am good at Java. After the first presentation in our class, I know what I should do for my final
+project. For the presentation, I actually did 2 version of  presentations for our final project; one is a simple android game which I give up
+that, because this game is about several shapes and play with those shapes, in that android project, is basically about using some GUI to do 
+the project, however, I think Mobile App this class should focus on some other code, because it is not a GUI class, and the program is not 
+difficult enough to be a final project, and I think this project is too simple to get a good grade. So, I give up on that project. Even though 
+I have already finished that presentation, I decide to give up on this version of my presentation. Then, I am thinking about I can use some 
+thing related to the data base to do the program. For me, the data base is more difficult than the GUI program. So, I start to think about what
+kind of app I can write(because there still have some time before our presentation on the class) the thing I realize I can write a program about
+the questions is that; there is one day, I went to school’s solution center, after that, I come up with an idea that I can write a program which
+can make students to ask their questions In that app, and some one can write comments on the application. This program is a kind of new thing to
+me, I never did program like that before, it is also a good time to make me to exercise the knowledge that I learned before and android program 
+is also a new thing to me. After making this decision, I start to do the presentation for our class. In the beginning, I am thinking about how
+I can make my project better, I am thinking about add several pictures in that app. However, the picture makes words in the app hard to read. 
+So, I try to do with the program surface as simple as I can (simple is not means easy, I just delete the pictures which are not needed to the
+project) this is how I write for my presentation of the surface. After finish thinking about that, there is another question came up. What will
+be inside my app, in the beginning of my thinking, I am think about an app that basically on solving problems for students. Thus, I should focus
+on post questions and answer those questions for my project. This is how I got my idea about writing an app like that.
+
+I introduced about how I come with the idea like that, in the last part of my essay, I will talk about what my app will looks like in this part. 
+I still writing about my app, and it is not finish yet. Thus, in this essay, I will write about how I think my app will be, and I will work hard 
+to make my app be the way in my essay. And this is how I think about; in the first part of my program, there should have a log in page, which
+allow the user to create their account, and log in to the app, the reason why I came up with the idea is that, when we use the mobile app, there
+are always have a log in page related to the app. I also want my app to have its own user, thus, the log in page is the most important part to
+an app. For this log in page, there will be 2 buttons, on the bottom of this page, one is log in and another one is creating an account. In 
+addition, in the log in page, there will also have two white boxes, which allow user to write their username and their password. In my thinking,
+I will make the password be like this “******” For example, if our password is several numbers of letters, those numbers or letters will not
+appear on the log in page, it will be like “******” (this is more secret way to log in the password.) Those are for the log in page. In the next
+part of my app, there will be a questions link. Because my app is basically about post questions and answer those questions. Thus, the main 
+function will be the most important part, for the function, I am thinking about use the “+” as a special button to add the text channels, and 
+next to the “+”, there will have a line which allow user to put several words in. For example, if I am a user, and I want to put the questions 
+in the app, I should first put words on the line, when I finished the question, I can press the “+” button, the question will show on the 
+questions page. I can add as many questions as I want into the question page. And there is also another part for the app, my app is not only
+about put questions on the question page, when user click the questions appear on the question page, user can go to see the questions detail. 
+At the question detail page, there is also have a line which allow user to put words on it, and there is also a “+” button, which can allow
+user to post their words under the question. Those two parts are separate, I think this way can make my app easy to use. This is how my app
+will look like, all in all, my app is about on log in page, one question page (which allow user to post questions), one questions page (which 
+allow user to post their answers). At the same time, user can see the questions, or the answers are inside that page, the app will memorize it. 
+
+This is how my app will look like. In this part of my essay, I will talk about the difficulties I meet and how I did this program. In the first
+part of my program, I write about the log in page, for this part, it is not difficult, it is basically about creating the button and then, add
+the function to each button, however during this part, I meet a small problem and it took me about 1 week to fix, the problem is that I cannot 
+do with the log in page. The meaning of this problem is that I do not know how to make the program know I have already created the account. To 
+solve this problem, I did two times for the log in page, in the first time, I only create the log in button, however, it does not work, in the 
+second time, I found out that the function I added is not the correct. This part really spends a long time. In the next part of my program, is 
+about doing the questions part. In this part, I am thinking about let the program remember the questions which user add. This need to use the 
+knowledge linked to the database, I need to create a part, which allow the user to put in words on the program, and the program can remember
+those words and shows on each page. I need do those part of the program several times, because my program should allow the user to put those 
+questions into the system several times. Based on my understanding, this part is the most difficult part in my program. To do it, I should make
+the program divide into several part, and write each part one by one, and each question is separate. In addition, each question should have its
+own comments, also, for each question, it is totally independent from each other when I did this part, I really confused about how to do it. But
+finally, I finished the data base and linked all those things together, user can type their questions on the separate page, and also the program
+can remember those questions separately. To makes this program run. Those are basically about the program, how this program run, and how I did 
+this program. 
+
+This is how I did this program. However, based on my understanding and knowledge, I know other program which have the same function as my app.
+For example, we can find some app from google store, that people can post words, and others can write comments under the post questions. For 
+example, the face book, have the same function, but when I first time use face book, I am confused about some of the function inside the app.
+I think my app is more clearly to post those things and read those comments. There is some other app in the google store too, and all of those
+apps are almost the same thing, it is about put several words in to the platform， others are about using the database to store all those data
+together. All in all, my function is like this kind of app, but I think my app is more clearly, it is focus on questions and comments. Even if 
+there are some android app like mine, I think my program is more clearly. 
+
+When I finished my term paper, I am still working on my program. I did not finish it yet, I think the final output for my app is almost like what 
+I said about it in my term paper, I am not going to change the format of my app, especially the consequence has something wrong, or the program 
+have some part cannot run. I think I will finish this project before Tuesday. 
+
+This is my first android project, in this app, I did the code about the log in page, the code about the post questions and comments under each 
+question, put those questions separate from each other. After the user put down the words the program can also remember those questions. 
+This program does not have a lot of functions; However, it really took me a long time to do it. Because if I want to achieve all those functions, 
+I need to write a lot of code to do it, and all those codes are new to me. All in all, I like this program, during this time, I learned a lot of
+new function about the mobile app, and this android app also makes me to realize that I still have a lot of thing should learn in the future. 
