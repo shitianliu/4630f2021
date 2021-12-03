@@ -1,1 +1,15 @@
+The problem the project attempts to solve is user to post questions and user can 
+also post some comments under the questions. The reason why I choose it is because 
+user can see those questions on the app directly. 
 
+The way how this app could be installation is that, it is a android project, thus,
+it can be installed on all android phone by using the .apk file. Another way is to 
+download the source files from the git hub page of the project. we can also use the
+android studio to run the program by using the virtual machine. 
+
+
+This is how to use the app. First, put in the username and the password. Then press 
+REGISTER, after register the account. We can log in. press QUESTION.  We can type 
+questions on the first line. And press the mark “+” we can post our questions on the
+page. After click the questions we posted, we can add comments under those questions
+(by using the mark “+” under each questions page.)
